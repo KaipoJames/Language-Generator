@@ -1,0 +1,7 @@
+1 Must End With Vowel
+2 Must Start With Vowel
+3 Must End with Consonants
+4 Must Start With Consonant
+5 No Double Consonants
+6 No Double Vowels
+7 H is Silent

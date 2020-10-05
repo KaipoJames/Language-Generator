@@ -1,0 +1,4 @@
+31 abcdefghijklmnopqrstuvwxyzāēīōū
+10 aeiouāēīōū
+21 bcdfghjklmnpqrstvwxyz
+1 '
