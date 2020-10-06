@@ -1,4 +1,6 @@
-31 abcdefghijklmnopqrstuvwxyzāēīōū
-10 aeiouāēīōū
-21 bcdfghjklmnpqrstvwxyz
-1 '
+letters 26 abcdefghijklmnopqrstuvwxyz
+letters_special 31 abcdefghijklmnopqrstuvwxyzāēīōū
+vowels 5 aeiou
+vowels_special 10 aeiouāēīōū
+consonants 21 bcdfghjklmnpqrstvwxyz
+glottal_marker 1 '
